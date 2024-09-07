@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gokulrx100
-- 👀 Exploring different fields in CS field 
+- 👀 Exploring different fields in CS
 - 🌱 I’m currently learning Full stack Development
 - 📫 You can reach me through gokulkrishnakumar04@gmail.com
 - 😄 Pronouns: He/Him
