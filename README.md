@@ -3,7 +3,7 @@
   Hi, I'm Gokul Krishna 👋
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Computing+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Tech-Fanatic;Problem+Solver+%7C+Tech+Explorer" alt="Typing Animation" />
 </p>
 
 ---
