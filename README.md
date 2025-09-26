@@ -1,9 +1,11 @@
 <!-- Banner with Typing Effect -->
-<h1 align="center">
-  Hi, I'm Gokul Krishna 👋
-</h1>
+<h1 align="center">Hi, I'm Gokul Krishna 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Tech-Fanatic;Problem+Solver+%7C+Tech+Explorer" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Tech-Fanatic;Friendly+Neighborhood+Dev"
+    alt="Typing Animation — Full Stack Developer, AI & ML Enthusiast, Tech-Fanatic, Friendly Neighborhood Dev"
+  />
 </p>
 
 ---
@@ -14,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 **Frameworks & Libraries**  
@@ -23,10 +26,16 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases**  
+**Databases & Tools**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Other Tools**  
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
